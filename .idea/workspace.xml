@@ -5,165 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c359c7f-7794-418f-93c4-fece3b19d671" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/REST_SERVER/controllers/salesController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REST_SERVER/models/currentMonthSales.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REST_SERVER/models/customerSales.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REST_SERVER/models/itemSales.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REST_SERVER/public/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REST_SERVER/public/css/bootstrap-grid.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REST_SERVER/public/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REST_SERVER/public/css/bootstrap-reboot.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REST_SERVER/public/css/bootstrap-utilities.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REST_SERVER/public/css/bootstrap-utilities.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REST_SERVER/public/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REST_SERVER/public/css/bootstrap.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REST_SERVER/public/imgs/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REST_SERVER/public/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REST_SERVER/public/js/bootstrap.esm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REST_SERVER/public/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REST_SERVER/routes/sales.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REST_SERVER/views/customers/addCustomer.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REST_SERVER/views/customers/showCustomers.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REST_SERVER/views/customers/updateCustomer.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REST_SERVER/views/home.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REST_SERVER/views/items/addItem.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REST_SERVER/views/items/showItems.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REST_SERVER/views/layouts/layout.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REST_SERVER/views/notFound.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REST_SERVER/views/sales.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REST_SERVER/views/testing.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw4/src/components/About.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw4/src/components/FeaturedProducts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw4/src/components/Home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw4/src/components/Login.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw4/src/components/NavBar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw4/src/components/NewProducts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw4/src/components/NotFound.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw4/src/components/O_Users.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw4/src/components/OrderSummary.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw4/src/components/Products.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw4/src/components/Profile 2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw4/src/components/Profile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw4/src/components/UserDetails.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw4/src/components/Users.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw4/src/components/auth 2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw4/src/components/auth.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/.idea/REST_SERVER.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/.idea/jsLibraryMappings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/REST_SERVER/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/controllers/booksController.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/models/book.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/REST_SERVER/node_modules/.package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/body-parser/HISTORY.md" beforeDir="false" afterPath="$PROJECT_DIR$/REST_SERVER/node_modules/body-parser/HISTORY.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/body-parser/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/REST_SERVER/node_modules/body-parser/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/body-parser/lib/types/json.js" beforeDir="false" afterPath="$PROJECT_DIR$/REST_SERVER/node_modules/body-parser/lib/types/json.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/body-parser/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/REST_SERVER/node_modules/body-parser/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/call-bind/.eslintrc" beforeDir="false" afterPath="$PROJECT_DIR$/REST_SERVER/node_modules/call-bind/.eslintrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/call-bind/.nycrc" beforeDir="false" afterPath="$PROJECT_DIR$/REST_SERVER/node_modules/call-bind/.nycrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/call-bind/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/REST_SERVER/node_modules/call-bind/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/call-bind/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/REST_SERVER/node_modules/call-bind/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/call-bind/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/REST_SERVER/node_modules/call-bind/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/call-bind/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/REST_SERVER/node_modules/call-bind/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/call-bind/test/callBound.js" beforeDir="false" afterPath="$PROJECT_DIR$/REST_SERVER/node_modules/call-bind/test/callBound.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/call-bind/test/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/REST_SERVER/node_modules/call-bind/test/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/define-data-property/.eslintrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/define-data-property/.github/FUNDING.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/define-data-property/.nycrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/define-data-property/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/define-data-property/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/define-data-property/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/define-data-property/index.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/define-data-property/index.d.ts.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/define-data-property/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/define-data-property/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/define-data-property/test/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/define-data-property/tsconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/express/node_modules/body-parser/HISTORY.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/express/node_modules/body-parser/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/express/node_modules/body-parser/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/express/node_modules/body-parser/SECURITY.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/express/node_modules/body-parser/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/express/node_modules/body-parser/lib/read.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/express/node_modules/body-parser/lib/types/json.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/express/node_modules/body-parser/lib/types/raw.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/express/node_modules/body-parser/lib/types/text.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/express/node_modules/body-parser/lib/types/urlencoded.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/express/node_modules/body-parser/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/express/node_modules/raw-body/HISTORY.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/express/node_modules/raw-body/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/express/node_modules/raw-body/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/express/node_modules/raw-body/SECURITY.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/express/node_modules/raw-body/index.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/express/node_modules/raw-body/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/express/node_modules/raw-body/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/function-bind/.eslintrc" beforeDir="false" afterPath="$PROJECT_DIR$/REST_SERVER/node_modules/function-bind/.eslintrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/function-bind/.github/FUNDING.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/function-bind/.github/SECURITY.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/function-bind/.nycrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/function-bind/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/function-bind/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/REST_SERVER/node_modules/function-bind/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/function-bind/implementation.js" beforeDir="false" afterPath="$PROJECT_DIR$/REST_SERVER/node_modules/function-bind/implementation.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/function-bind/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/REST_SERVER/node_modules/function-bind/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/get-intrinsic/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/REST_SERVER/node_modules/get-intrinsic/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/get-intrinsic/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/REST_SERVER/node_modules/get-intrinsic/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/get-intrinsic/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/REST_SERVER/node_modules/get-intrinsic/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/gopd/.eslintrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/gopd/.github/FUNDING.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/gopd/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/gopd/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/gopd/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/gopd/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/gopd/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/gopd/test/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/has-property-descriptors/.eslintrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/has-property-descriptors/.github/FUNDING.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/has-property-descriptors/.nycrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/has-property-descriptors/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/has-property-descriptors/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/has-property-descriptors/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/has-property-descriptors/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/has-property-descriptors/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/has-property-descriptors/test/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/hasown/.eslintrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/hasown/.github/FUNDING.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/hasown/.nycrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/hasown/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/hasown/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/hasown/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/hasown/index.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/hasown/index.d.ts.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/hasown/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/hasown/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/hasown/tsconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/mysql2/lib/connection.js" beforeDir="false" afterPath="$PROJECT_DIR$/REST_SERVER/node_modules/mysql2/lib/connection.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/mysql2/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/REST_SERVER/node_modules/mysql2/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/object-inspect/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/REST_SERVER/node_modules/object-inspect/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/object-inspect/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/REST_SERVER/node_modules/object-inspect/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/object-inspect/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/REST_SERVER/node_modules/object-inspect/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/object-inspect/test/global.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/raw-body/HISTORY.md" beforeDir="false" afterPath="$PROJECT_DIR$/REST_SERVER/node_modules/raw-body/HISTORY.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/raw-body/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/REST_SERVER/node_modules/raw-body/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/raw-body/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/REST_SERVER/node_modules/raw-body/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/raw-body/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/REST_SERVER/node_modules/raw-body/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/set-function-length/.eslintrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/set-function-length/.github/FUNDING.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/set-function-length/.nycrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/set-function-length/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/set-function-length/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/set-function-length/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/set-function-length/env.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/set-function-length/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/node_modules/set-function-length/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/REST_SERVER/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/REST_SERVER/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/routes/routes.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/util/database.js" beforeDir="false" afterPath="$PROJECT_DIR$/REST_SERVER/util/database.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/REST_SERVER/routes/sales.js" beforeDir="false" afterPath="$PROJECT_DIR$/REST_SERVER/routes/sales.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw4/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/hw4/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw4/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/hw4/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hw4/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw4/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw4/src/components/About.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw4/src/components/FeaturedProducts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw4/src/components/Home.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw4/src/components/Login.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw4/src/components/NavBar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw4/src/components/NewProducts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw4/src/components/NotFound.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw4/src/components/O_Users.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw4/src/components/OrderSummary.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw4/src/components/Products.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw4/src/components/Profile 2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw4/src/components/Profile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw4/src/components/UserDetails.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw4/src/components/Users.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw4/src/components/auth 2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw4/src/components/auth.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/hw4/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/hw4/src/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hw4/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw4/src/index.js" afterDir="false" />
     </list>
@@ -189,29 +51,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3700_HW4/hw4/src",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3700_HW4/hw4/src&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/hw4/src" />
       <recent name="$PROJECT_DIR$/REST_SERVER" />
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/hw4/src" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -225,6 +90,8 @@
       <workItem from="1701708231685" duration="380000" />
       <workItem from="1701880961993" duration="58000" />
       <workItem from="1701898252356" duration="1244000" />
+      <workItem from="1701976931516" duration="1860000" />
+      <workItem from="1701979101151" duration="191000" />
     </task>
     <servers />
   </component>
