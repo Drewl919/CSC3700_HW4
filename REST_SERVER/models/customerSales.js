@@ -23,7 +23,12 @@ module.exports = class CustomerSales {
     }
 
     update ( id ){
-        return db.execute( "UPDATE Customer SET CustomerName = ?, CustomerEmail = ?  WHERE CustomerID = ?",
+        return db.execute("UPDATE Customer SET CustomerName = ?, CustomerEmail = ?  WHERE CustomerID = ?",
             [this.name, this.email, id]);
+    }
+
+    static delete (id) {
+        return db.execute("DELETE FROM Customer WHERE CustomerID = ?",
+            [id]);
     }
 }
