@@ -9,7 +9,7 @@ function ShowItems(items) {
         fetch(URL, {
             method: 'DELETE',
         })
-        window.location.reload();
+        setTimeout(window.location.reload(), 40);
     }
     return (
         <div>

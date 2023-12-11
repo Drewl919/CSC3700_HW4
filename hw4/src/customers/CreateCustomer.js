@@ -19,11 +19,9 @@ function CreateCustomer() {
             method: 'POST',
             headers: { "Content-Type": "application/json"},
             body: JSON.stringify(customer)
-        }).then(() => {
-            console.log("Added customer");
-            setIsPending( false );
-            history.push("/customers");
         })
+        setTimeout(null, 50);
+        setTimeout(history.push("/customers"), 50);
     }
     return (
         <div className="main">

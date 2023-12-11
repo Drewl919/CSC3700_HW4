@@ -19,11 +19,8 @@ function CreateItem() {
             method: 'POST',
             headers: { "Content-Type": "application/json"},
             body: JSON.stringify(item)
-        }).then(() => {
-            console.log("Added item");
-            setIsPending( false );
-            history.push("/items");
         })
+        setTimeout(history.push("/items"), 50);
     }
     return (
         <div className="main">
