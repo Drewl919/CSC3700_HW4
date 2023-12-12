@@ -20,8 +20,9 @@ function CreateCustomer() {
             headers: { "Content-Type": "application/json"},
             body: JSON.stringify(customer)
         })
-        setTimeout(null, 50);
-        setTimeout(history.push("/customers"), 50);
+        setTimeout(() => {
+            history.push('/customers');
+        }, 40);
     }
     return (
         <div className="main">

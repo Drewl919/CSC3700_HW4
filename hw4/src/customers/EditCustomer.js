@@ -25,7 +25,8 @@ function EditCustomer() {
         })
         setTimeout(() => {
             history.push('/customers');
-        }, 40);    }
+        }, 40);
+    }
     return (
         <div className="main">
             <Row>

@@ -15,8 +15,8 @@ router.delete( '/items/:id', salesController.deleteItem);
 router.post( '/items/:id', salesController.postUpdateItem);
 
 
-router.get( '/sales', salesController.showSales );
-router.get( '/monthlysales', salesController.getTopSales );
+router.get( '/sales', salesController.showSales);
+router.get( '/monthlysales', salesController.getTopSales);
 
 
 exports.routes = router;

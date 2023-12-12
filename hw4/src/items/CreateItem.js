@@ -20,8 +20,9 @@ function CreateItem() {
             headers: { "Content-Type": "application/json"},
             body: JSON.stringify(item)
         })
-        setTimeout(history.push("/items"), 50);
-    }
+        setTimeout(() => {
+            history.push('/items');
+        }, 40);    }
     return (
         <div className="main">
             <Row>

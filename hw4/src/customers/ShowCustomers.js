@@ -8,7 +8,7 @@ function ShowCustomers(customers) {
         fetch(URL, {
             method: 'DELETE',
         })
-        setTimeout(window.location.reload(), 30);
+        setTimeout(window.location.reload(), 500);
     }
     return (
         <div>

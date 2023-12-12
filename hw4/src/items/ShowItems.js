@@ -5,11 +5,10 @@ import {Link} from "react-router-dom";
 function ShowItems(items) {
     function handleDelete(id) {
         let URL = `http://localhost:8000/items/${id}`;
-        console.log("Dlfadjsk")
         fetch(URL, {
             method: 'DELETE',
         })
-        setTimeout(window.location.reload(), 40);
+        setTimeout(window.location.reload(), 500);
     }
     return (
         <div>
