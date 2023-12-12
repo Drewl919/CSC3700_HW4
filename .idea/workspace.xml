@@ -7,15 +7,7 @@
     <list default="true" id="2c359c7f-7794-418f-93c4-fece3b19d671" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/REST_SERVER/controllers/salesController.js" beforeDir="false" afterPath="$PROJECT_DIR$/REST_SERVER/controllers/salesController.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/models/currentMonthSales.js" beforeDir="false" afterPath="$PROJECT_DIR$/REST_SERVER/models/currentMonthSales.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/REST_SERVER/models/customerSales.js" beforeDir="false" afterPath="$PROJECT_DIR$/REST_SERVER/models/customerSales.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/routes/sales.js" beforeDir="false" afterPath="$PROJECT_DIR$/REST_SERVER/routes/sales.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_SERVER/views/notFound.pug" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw4/src/customers/CreateCustomer.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw4/src/customers/CreateCustomer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw4/src/customers/EditCustomer.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw4/src/customers/EditCustomer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw4/src/customers/ShowCustomers.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw4/src/customers/ShowCustomers.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw4/src/items/CreateItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw4/src/items/CreateItem.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw4/src/items/ShowItems.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw4/src/items/ShowItems.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +86,8 @@
       <workItem from="1702026677935" duration="41498000" />
       <workItem from="1702128485795" duration="1053000" />
       <workItem from="1702314121207" duration="692000" />
-      <workItem from="1702327160001" duration="3401000" />
+      <workItem from="1702327160001" duration="3518000" />
+      <workItem from="1702389189594" duration="32000" />
     </task>
     <servers />
   </component>

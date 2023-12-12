@@ -26,14 +26,12 @@ exports.postAddCustomer = ( req, res, next) => {
     let name = req.body.name;
     let email = req.body.email;
     const customer = new CustomerSales(name, email);
-    console.log("Send add customer request")
     customer.save().then(() => {
         res.status(200);
     })
 }
 exports.deleteCustomer = ( req, res, next) => {
     let id = req.params.id;
-    console.log("Send delete customer request")
     CustomerSales.delete(id).then(() => {
         res.status(200);
     })
@@ -43,7 +41,6 @@ exports.postUpdateCustomer = ( req, res, next) => {
     let name = req.body.newName;
     let email = req.body.newEmail;
     const customer = new CustomerSales(name, email);
-    console.log("Send update customer request")
     customer.update(id).then(() => {
         res.status(200);
     })

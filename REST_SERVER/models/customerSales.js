@@ -6,7 +6,6 @@ module.exports = class CustomerSales {
         this.email = e;
     }
     save() {
-        console.log("added customer")
         return db.execute( 'insert into Customer (CustomerName, CustomerEmail) ' +
             'values (?, ?)', [this.name, this.email])
     }
@@ -21,13 +20,11 @@ module.exports = class CustomerSales {
     }
 
     update ( id ){
-        console.log("updated customer")
         return db.execute("UPDATE Customer SET CustomerName = ?, CustomerEmail = ?  WHERE CustomerID = ?",
             [this.name, this.email, id]);
     }
 
     static delete (id) {
-        console.log("deleted customer")
         return db.execute("DELETE FROM Customer WHERE CustomerID = ?",
             [id]);
     }
